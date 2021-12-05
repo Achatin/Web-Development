@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "tailwindcss": "^2.2.19",
+    "tailwindcss-neumorphism": "^0.1.0"
+  }
+}
